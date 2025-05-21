@@ -1,0 +1,4 @@
+Font:   Raleway
+Weight: 900
+Tool:   https://danmarshall.github.io/google-font-to-svg-path/
+Author: sphoon
